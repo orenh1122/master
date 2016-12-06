@@ -1,1 +1,1 @@
-# this orenh github project for system eneneering course
+# this orenh github project for System Engineering course
